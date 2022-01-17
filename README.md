@@ -7,8 +7,8 @@
 
 
  #### You can Reach out me
-[![Linkedin Badge](https://img.shields.io/badge/-Sherboo96-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elslamony/)]( https://www.linkedin.com/in/ayman-elslamony/) 
-[![Gmail Badge](https://img.shields.io/badge/-sherbeny2096@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:aymanelslamony17@gmail.com)](mailto:aymanelslamony17@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-ayman-elslamony-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elslamony/)]( https://www.linkedin.com/in/ayman-elslamony/) 
+[![Gmail Badge](https://img.shields.io/badge/-aymanelslamony17@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:aymanelslamony17@gmail.com)](mailto:aymanelslamony17@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Follow%20%40Ayman_Elslamony)](https://twitter.com/Ayman_Elslamony)
 
 # Technical Skills
