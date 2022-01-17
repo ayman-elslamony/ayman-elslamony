@@ -6,8 +6,6 @@
 ### 🎯 **I’m currently focusing on**: Clean Code and Unit Testing.
 
 
-### 😎 Good knowledge ->  Encryption Algorithms, Data Analysis
-
  #### You can Reach out me
 [![Linkedin Badge](https://img.shields.io/badge/-Sherboo96-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elslamony/)]( https://www.linkedin.com/in/ayman-elslamony/) 
 [![Gmail Badge](https://img.shields.io/badge/-sherbeny2096@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:aymanelslamony17@gmail.com)](mailto:aymanelslamony17@gmail.com)
