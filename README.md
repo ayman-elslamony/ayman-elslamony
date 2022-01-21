@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ayman Elslamony!
 
-### 👀 I'm junior Flutter Developer.
+### 👀 I'm Flutter Developer.
 ### 😊 have Powerful on bug fixing.
 ### 👌 Write readable, and reusable code.
 ### 🎯 **I’m currently focusing on**: Clean Code and Unit Testing.
