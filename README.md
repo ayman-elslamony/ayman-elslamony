@@ -2,7 +2,7 @@
 
 ### 👀 I'm Flutter Developer.
 ### 😊 have Powerful on bug fixing.
-### 👌 Write readable, and reusable code.
+### 👌 Write readable and reusable code.
 ### 🎯 **I’m currently focusing on**: Clean Code and Unit Testing.
 
 
