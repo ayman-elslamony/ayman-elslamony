@@ -20,7 +20,7 @@
 #### Server Side
 - Rest APIs, Firebase, Agora, Google Map, Google Places  
 #### IDEs and Tools
-- Andriod Sutdio, Visual Studio Code, Git ( Git Hub, Git Lab) POSTMAN, Trello, Agile Methologies 
+- Andriod Sutdio, Visual Studio Code, Git ( Git Hub, Git Lab), POSTMAN, Trello, Agile Methologies 
 #### Platforms
 - Windows, MacOS 
 
