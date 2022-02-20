@@ -16,9 +16,9 @@
 #### Programing Languages
 - C++ ( OOP - Data Struture - Design Pattern ), Clean Code, SQLlite 
 #### Mobile Development
-- Flutter, Dart ( Provider - Bloc - Getx ), MVVM Architecture Pattern
+- Flutter, Dart ( Provider - Bloc ), MVC design pattern, sqlite
 #### Server Side
-- Rest APIs, Firebase, Agora.io  
+- Rest APIs, Firebase, Agora, Google Map, Google Places  
 #### IDEs and Tools
 - Andriod Sutdio, Visual Studio Code, Git ( Git Hub, Git Lab) POSTMAN, Trello, Agile Methologies 
 #### Platforms
