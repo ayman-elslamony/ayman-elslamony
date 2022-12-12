@@ -14,21 +14,30 @@
 # Technical Skills
 
 #### Programing Languages
-- C++ ( OOP - Data Struture - Design Pattern ), Clean Code, SQLlite 
+- C++, Dart, Swift, python. 
+#### Conceptual Knowledge
+- OOP, Data Structures, Algorithms, Problem Solving, Clean Code, sqlite.
+- SDLC, Agile Methodology, (MVVM, MVC) Architecture pattern, SW Testing. 
 #### Mobile Development
-- Flutter, Dart ( Provider - Bloc ), MVC design pattern, sqlite
+- Flutter(Android, IOS), State Management (Provider, Bloc, GetX).
 #### Server Side
-- Rest APIs, Firebase, Agora, Google Map, Google Places  
+- Rest APIs, Firebase, Agora, Google Map, Google Places, Hyper Pay. 
 #### IDEs and Tools
-- Andriod Sutdio, Visual Studio Code, Git ( Git Hub, Git Lab), POSTMAN, Trello, Agile Methologies 
+- Android Studio, VS Code, XCode, Trello, Postman. 
+- Git (GitHub, GitLab), Azure DevOps, Notion.
 #### Platforms
-- Windows, MacOS 
+- Windows, MacOS. 
 
 
 
 
 #### My Projects "Flutter apps"
 
+- Driver Package App .> [Android](https://play.google.com/store/apps/details?id=com.excprotection.irc_drivers) -- [GitHub](https://github.com/ayman-elslamony/driver_package)
+- Tadbeer App .> [Android](https://play.google.com/store/apps/details?id=com.excprotection.tadbeermobile) -- [IOS](https://apps.apple.com/us/app/tadbeer/id1531299885)
+- Enaya App .> [Android](https://play.google.com/store/apps/details?id=com.excprotection.EnayaMobile) -- [IOS](https://apps.apple.com/us/app/enaya/id1491310421)
+- Tanmya App .> [Android](https://play.google.com/store/apps/details?id=com.excprotection.eltanmia) -- [IOS](https://apps.apple.com/uy/app/etanmia/id1599240880)
+- Eau de Milano .> https://github.com/ayman-elslamony/eaudemilano
 - Health Book ( Health Care System ) .> https://github.com/ayman-elslamony/HealthBookApp
 - Check And Chat .> https://github.com/ayman-elslamony/checkAndChat
 - Es3fni App .> https://github.com/ayman-elslamony/Es3fni
