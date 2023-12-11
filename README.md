@@ -1,30 +1,31 @@
-# 👋 Hi there, I'm Ayman Elslamony!
+# 👋 Hello, I am Ayman Elslamony!
 
-### 👀 I'm Flutter Developer.
-### 😊 have Powerful on bug fixing.
+### 👀 I am a Flutter Developer.
+### 😊 have Powerful bug fixing.
 ### 👌 Write readable and reusable code.
-### 🎯 **I’m currently focusing on**: Clean Code and Unit Testing.
+### 🎯 **I am currently focusing on**: Clean Code and Unit Testing.
 
 
- #### You can Reach out me
+ #### You can Reach out to me
+ [![CV Badge](https://img.shields.io/badge/CV-View%20My%20CV-0175C2?style=flat&logo=adobe-acrobat-reader)]((https://www.notion.so/aymanelslamony/ffb40e02728d4a08b2b4b9f90ebb977f?pvs=4#c4d44b97b95548049c28153328a504d6))
 [![Linkedin Badge](https://img.shields.io/badge/-Ayman_Elslamony-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elslamony/)]( https://www.linkedin.com/in/ayman-elslamony/) 
 [![Gmail Badge](https://img.shields.io/badge/-aymanelslamony17@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:aymanelslamony17@gmail.com)](mailto:aymanelslamony17@gmail.com)
 [![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Ayman_Elslamony)](https://twitter.com/Ayman_Elslamony)
 
 # Technical Skills
 
-#### Programing Languages
-- C++, Dart, Swift, python. 
+#### Programming Languages
+- C++, Dart, Swift, Java, python. 
 #### Conceptual Knowledge
-- OOP, Data Structures, Algorithms, Problem Solving, Clean Code, sqlite.
+- OOP, Data Structures, Algorithms, Problem Solving, Clean Code, SQLite.
 - SDLC, Agile Methodology, (MVVM, MVC) Architecture pattern, SW Testing. 
 #### Mobile Development
 - Flutter(Android, IOS), State Management (Provider, Bloc, GetX).
 #### Server Side
-- Rest APIs, Firebase, Agora, Google Map, Google Places, Hyper Pay. 
+- Rest APIs, Firebase, Agora, Google Maps, Google Places, HyperPay, OneSignal. 
 #### IDEs and Tools
 - Android Studio, VS Code, XCode, Trello, Postman. 
-- Git (GitHub, GitLab), Azure DevOps, Notion.
+- Git (GitHub, GitLab), Azure DevOps services, Notion.
 #### Platforms
 - Windows, MacOS. 
 
