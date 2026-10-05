@@ -10,7 +10,7 @@ checks, and AI engineering workflow the team's apps are built on — and I still
 payments, and booking flows that customers use.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-ayman--elslamony.github.io-0175C2?style=flat)](https://ayman-elslamony.github.io)
-[![CV](https://img.shields.io/badge/CV-View-0175C2?style=flat)](https://www.notion.so/aymanelslamony/ffb40e02728d4a08b2b4b9f90ebb977f?pvs=4)
+[![CV](https://img.shields.io/badge/CV-View-0175C2?style=flat)](https://ayman-elslamony.github.io/cv)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ayman--elslamony-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elslamony)
 [![Email](https://img.shields.io/badge/Email-aymanelslamony17%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
 
