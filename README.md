@@ -1,43 +1,61 @@
-# 👋 Hello, I am Ayman Elslamony!
+# Ayman Elslamony
 
-### 👀 I am a Flutter Developer.
-### 😊 Possess strong bug-fixing skills.
-### 👌 Proficient in writing readable and reusable code.
-### 🎯 **Current Focus**: Clean Code and Unit Testing.
+### Senior Flutter Developer · Android & iOS · Clean Architecture · CI/CD
 
- #### You can Reach out to me
-[![CV Badge](https://img.shields.io/badge/CV-View%20My%20CV-0175C2?style=flat&logo=adobe-acrobat-reader)](https://www.notion.so/aymanelslamony/ffb40e02728d4a08b2b4b9f90ebb977f?pvs=4#c4d44b97b95548049c28153328a504d6)
-[![Linkedin Badge](https://img.shields.io/badge/-Ayman_Elslamony-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ayman-elslamony/)]( https://www.linkedin.com/in/ayman-elslamony/) 
-[![Gmail Badge](https://img.shields.io/badge/-aymanelslamony17@gmail.com-c14438?logo=Gmail&logoColor=white&link=mailto:aymanelslamony17@gmail.com)](mailto:aymanelslamony17@gmail.com)
-[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/cloudposse.svg?style=social&label=Ayman_Elslamony)](https://twitter.com/Ayman_Elslamony)
+📍 Cairo, Egypt · Arabic (native) · English (proficient)
 
-# Technical Skills
+Senior Flutter Developer with **5+ years of experience** and **18+ applications** shipped across
+e-commerce, healthcare, and service domains. I own the shared architecture, automated quality
+checks, and AI engineering workflow the team's apps are built on — and I still ship the features,
+payments, and booking flows that customers use.
 
-#### Programming Languages
-- C++, Dart, Swift, Java, Python. 
-#### Conceptual Knowledge
-- Object-Oriented Programming, Data Structures, Algorithms, Problem Solving, Clean Code, SQLite.
-- Software Development Life Cycle (SDLC), Agile Methodology, (MVVM, MVC) Architecture pattern, Software Testing. 
-#### Mobile Development
-- Flutter (Android, IOS), State Management (Provider, Bloc, GetX).
-#### Server Side
-- Rest APIs, Firebase, Agora, Google Maps, Google Places, HyperPay, OneSignal. 
-#### IDEs and Tools
-- Android Studio, VS Code, XCode, Trello, Postman. 
-- Git (GitHub, GitLab), Azure DevOps services, Notion.
-#### Platforms
-- Windows, MacOS.
+[![Portfolio](https://img.shields.io/badge/Portfolio-ayman--elslamony.github.io-0175C2?style=flat)](https://ayman-elslamony.github.io)
+[![CV](https://img.shields.io/badge/CV-View-0175C2?style=flat)](https://www.notion.so/aymanelslamony/ffb40e02728d4a08b2b4b9f90ebb977f?pvs=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayman--elslamony-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elslamony)
+[![Email](https://img.shields.io/badge/Email-aymanelslamony17%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
 
-#### My Projects "Flutter apps"
+## What I work on
 
-- Driver Package App: [Android](https://play.google.com/store/apps/details?id=com.excprotection.irc_drivers) -- [GitHub](https://github.com/ayman-elslamony/driver_package)
-- Tadbeer App: [Android](https://play.google.com/store/apps/details?id=com.excprotection.tadbeermobile) -- [IOS](https://apps.apple.com/us/app/tadbeer/id1531299885)
-- Enaya App: [Android](https://play.google.com/store/apps/details?id=com.excprotection.EnayaMobile) -- [IOS](https://apps.apple.com/us/app/enaya/id1491310421)
-- Tanmya App: [Android](https://play.google.com/store/apps/details?id=com.excprotection.eltanmia) -- [IOS](https://apps.apple.com/uy/app/etanmia/id1599240880)
-- Eau de Milano: [GitHub](https://github.com/ayman-elslamony/eaudemilano)
-- Health Book ( Health Care System ): [GitHub](https://github.com/ayman-elslamony/HealthBookApp)
-- Check And Chat: [GitHub](https://github.com/ayman-elslamony/checkAndChat)
-- Es3fni App: [GitHub](https://github.com/ayman-elslamony/Es3fni)
-- Es3fni For Admin App: [GitHub](https://github.com/ayman-elslamony/Es3fniForadmin)
-- Coach Station: [GitHub](https://github.com/ayman-elslamony/coachstation)
-- Coach Station Trainer: [GitHub](https://github.com/ayman-elslamony/coachstationtrainer)
+- **Shared architecture** — navigation, network and state code in one versioned package instead
+  of being copied into each app, so one fix reaches every app through a reviewed upgrade.
+- **An internal developer toolchain** — 11 automated code-quality checks enforced before every
+  commit, plus a checker that verifies what the app expects from the API against what the backend
+  actually returns.
+- **A Figma-to-code design pipeline** — colours, spacing, typography and icons regenerated from the
+  design file.
+- **CI/CD** — GitHub Actions, Azure Pipelines, Fastlane and Firebase App Distribution; release
+  cycles 15% faster.
+- **Automated testing** — unit, widget and cubit-state tests plus mock repositories across the app
+  and the shared packages, so a release is verified before it ships rather than after.
+- **An AI engineering workflow** — reusable AI skills, agent definitions and a plan-review-execute
+  process, held to the same automated checks as every other change.
+- **Customer-facing features** — hourly and package-based booking, order tracking, payments and a
+  loyalty programme, including a payment-gateway migration that replaced three duplicated
+  card-payment flows with one.
+- **Code review and mentoring** — coding standards and review discipline (post-release bugs down
+  30%), and two junior developers mentored.
+
+## Public work
+
+| | |
+|---|---|
+| **HyperPay (Flutter plugin)** | Bridges the native iOS and Android HyperPay SDKs — [pub.dev](https://pub.dev/packages/hyperpay_plugin) |
+| **Awon** | Booking engine for hourly and package-based services — [Android](https://play.google.com/store/apps/details?id=com.excprotection.ircmobile) · [iOS](https://apps.apple.com/us/app/awon/id1483782795) |
+| **Driver Package (White-Label SDK)** | A reusable driver package with real-time fleet tracking — [Android](https://play.google.com/store/apps/details?id=com.excprotection.sraco_drivers) · [Android](https://play.google.com/store/apps/details?id=com.excprotection.irc_drivers) |
+| **Rafah** | Household services: cleaning and laundry through scheduled visits — [Android](https://play.google.com/store/apps/details?id=com.hrbs.rafahapp) · [iOS](https://apps.apple.com/us/app/rafah/id6476551030) |
+| **Es3fni** | On-demand home-care scheduling (nursing, physiotherapy) — [GitHub](https://github.com/ayman-elslamony/Es3fni) |
+| **Check And Chat** | Location-based social e-commerce with ratings — [GitHub](https://github.com/ayman-elslamony/checkAndChat) |
+
+The full list of 18+ apps is on the [portfolio](https://ayman-elslamony.github.io).
+
+## Stack
+
+| | |
+|---|---|
+| **Mobile** | Flutter (Android, iOS) · Dart · BLoC · Provider · Riverpod · GetX · go_router · get_it |
+| **Architecture** | Clean Architecture · SOLID · feature-first modules · Monorepo (Melos) · Design Tokens |
+| **Testing** | Unit · Widget · Cubit/Bloc state tests · Mock repositories |
+| **Integrations** | REST APIs · Firebase · FCM · Google Maps & Geofencing · Biometric authentication |
+| **Payments** | HyperPay (plugin author) · Paymob · Tabby |
+| **CI/CD** | GitHub Actions · Azure Pipelines · Fastlane · Firebase App Distribution · App Store & Google Play |
+| **AI tools** | Claude Code · Cursor · ChatGPT · Gemini |
