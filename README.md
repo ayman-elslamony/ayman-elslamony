@@ -1,6 +1,6 @@
 # Ayman Elslamony
 
-### Senior Flutter Developer · Android & iOS · Clean Architecture · CI/CD
+### Senior Flutter Developer · 18+ Apps Shipped · Clean Architecture · CI/CD
 
 📍 Cairo, Egypt · Arabic (native) · English (proficient)
 
