@@ -8,8 +8,9 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://ayman-elslamony.github.io)
 [![CV](https://img.shields.io/badge/CV-Download_PDF-00796B?style=for-the-badge&logo=googledocs&logoColor=white)](https://ayman-elslamony.github.io/cv/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayman--elslamony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elslamony)
-[![Email](https://img.shields.io/badge/Email-Contact_me-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ayman-elslamony)
+[![Email](https://img.shields.io/badge/Email-Write-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201552844195)
 
 <br>
 
@@ -83,6 +84,6 @@ The full list of 18+ apps is on the [portfolio](https://ayman-elslamony.github.i
 
 **Get in touch**
 
-[Portfolio](https://ayman-elslamony.github.io) · [CV (PDF)](https://ayman-elslamony.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/ayman-elslamony) · [aymanelslamony17@gmail.com](mailto:aymanelslamony17@gmail.com)
+[Portfolio](https://ayman-elslamony.github.io) · [CV (PDF)](https://ayman-elslamony.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/ayman-elslamony) · [aymanelslamony17@gmail.com](mailto:aymanelslamony17@gmail.com) · [WhatsApp](https://wa.me/201552844195)
 
 </div>
