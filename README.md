@@ -1,18 +1,35 @@
+<div align="center">
+
 # Ayman Elslamony
 
-### Senior Flutter Developer · 18+ Apps Shipped · Clean Architecture · CI/CD
+**Senior Flutter Developer · 18+ Apps Shipped · Clean Architecture · CI/CD**
 
 📍 Cairo, Egypt · Arabic (native) · English (proficient)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://ayman-elslamony.github.io)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-00796B?style=for-the-badge&logo=googledocs&logoColor=white)](https://ayman-elslamony.github.io/cv/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayman--elslamony-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elslamony)
+[![Email](https://img.shields.io/badge/Email-Contact_me-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
+
+<br>
+
+[![Flutter, Dart, Firebase, GitHub Actions, Azure, Figma, Git](https://skillicons.dev/icons?i=flutter,dart,firebase,githubactions,azure,figma,git&perline=7)](https://ayman-elslamony.github.io)
+
+</div>
+
+---
 
 Senior Flutter Developer with **5+ years of experience** and **18+ applications** shipped across
 e-commerce, healthcare, and service domains. I own the shared architecture, automated quality
 checks, and AI engineering workflow the team's apps are built on — and I still ship the features,
 payments, and booking flows that customers use.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-ayman--elslamony.github.io-0175C2?style=flat)](https://ayman-elslamony.github.io)
-[![CV](https://img.shields.io/badge/CV-View-0175C2?style=flat)](https://ayman-elslamony.github.io/cv)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ayman--elslamony-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayman-elslamony)
-[![Email](https://img.shields.io/badge/Email-aymanelslamony17%40gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
+<div align="center">
+
+| 📱 **18+ apps** shipped | ✅ **11 automated** quality checks | 🐞 **30%** fewer post-release bugs | 🚀 **15%** faster releases |
+|:---:|:---:|:---:|:---:|
+
+</div>
 
 ## What I work on
 
@@ -59,3 +76,13 @@ The full list of 18+ apps is on the [portfolio](https://ayman-elslamony.github.i
 | **Payments** | HyperPay (plugin author) · Paymob · Tabby |
 | **CI/CD** | GitHub Actions · Azure Pipelines · Fastlane · Firebase App Distribution · App Store & Google Play |
 | **AI tools** | Claude Code · Cursor · ChatGPT · Gemini |
+
+---
+
+<div align="center">
+
+**Get in touch**
+
+[Portfolio](https://ayman-elslamony.github.io) · [CV (PDF)](https://ayman-elslamony.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/ayman-elslamony) · [aymanelslamony17@gmail.com](mailto:aymanelslamony17@gmail.com)
+
+</div>
