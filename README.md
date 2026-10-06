@@ -6,15 +6,15 @@
 
 📍 Cairo, Egypt · Arabic (native) · English (proficient)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://ayman-elslamony.github.io)
-[![CV](https://img.shields.io/badge/CV-Download_PDF-00796B?style=for-the-badge&logo=googledocs&logoColor=white)](https://ayman-elslamony.github.io/cv/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit_site-0175C2?style=for-the-badge&logo=flutter&logoColor=white)](https://ayman-elslamony.github.io/?utm_source=github&utm_medium=profile&utm_campaign=readme)
+[![CV](https://img.shields.io/badge/CV-Download_PDF-00796B?style=for-the-badge&logo=googledocs&logoColor=white)](https://ayman-elslamony.github.io/cv/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/ayman-elslamony)
 [![Email](https://img.shields.io/badge/Email-Write-c14438?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aymanelslamony17@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/201552844195?text=Hi%20Ayman%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20Flutter%20role.)
 
 <br>
 
-[![Flutter, Dart, Firebase, GitHub Actions, Azure, Figma, Git](https://skillicons.dev/icons?i=flutter,dart,firebase,githubactions,azure,figma,git&perline=7)](https://ayman-elslamony.github.io)
+[![Flutter, Dart, Firebase, GitHub Actions, Azure, Figma, Git](https://skillicons.dev/icons?i=flutter,dart,firebase,githubactions,azure,figma,git&perline=7)](https://ayman-elslamony.github.io/?utm_source=github&utm_medium=profile&utm_campaign=readme)
 
 </div>
 
@@ -64,7 +64,7 @@ payments, and booking flows that customers use.
 | **Es3fni** | On-demand home-care scheduling (nursing, physiotherapy) — [GitHub](https://github.com/ayman-elslamony/Es3fni) |
 | **Check And Chat** | Location-based social e-commerce with ratings — [GitHub](https://github.com/ayman-elslamony/checkAndChat) |
 
-The full list of 18+ apps is on the [portfolio](https://ayman-elslamony.github.io).
+The full list of 18+ apps is on the [portfolio](https://ayman-elslamony.github.io/?utm_source=github&utm_medium=profile&utm_campaign=readme).
 
 ## Stack
 
@@ -84,6 +84,6 @@ The full list of 18+ apps is on the [portfolio](https://ayman-elslamony.github.i
 
 **Get in touch**
 
-[Portfolio](https://ayman-elslamony.github.io) · [CV (PDF)](https://ayman-elslamony.github.io/cv/) · [LinkedIn](https://www.linkedin.com/in/ayman-elslamony) · [aymanelslamony17@gmail.com](mailto:aymanelslamony17@gmail.com) · [WhatsApp](https://wa.me/201552844195?text=Hi%20Ayman%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20Flutter%20role.)
+[Portfolio](https://ayman-elslamony.github.io/?utm_source=github&utm_medium=profile&utm_campaign=readme) · [CV (PDF)](https://ayman-elslamony.github.io/cv/?utm_source=github&utm_medium=profile&utm_campaign=readme) · [LinkedIn](https://www.linkedin.com/in/ayman-elslamony) · [aymanelslamony17@gmail.com](mailto:aymanelslamony17@gmail.com) · [WhatsApp](https://wa.me/201552844195?text=Hi%20Ayman%2C%20I%20came%20across%20your%20GitHub%20profile%20and%20would%20like%20to%20talk%20about%20a%20Flutter%20role.)
 
 </div>
